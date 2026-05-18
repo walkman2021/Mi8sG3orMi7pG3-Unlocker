@@ -1,17 +1,19 @@
-# Mi8sG3-Unlocker 全自动版
+# Mi8sG3orMi7pG3-Unlocker 全自动版
 
-​本项目是专为搭载骁龙 8sg3（Snapdragon 8s Gen3）平台的小米设备打造的 Windows 一键 BL 解锁辅助工具。通过 8sg3-unlock.bat 脚本，实现 HyperOS 2026.02.01之前补丁系统下的自动化解锁流程
+​本项目是同步兼容骁龙 8sg3（Snapdragon 8s Gen3）与7pg3（Snapdragon 7+ Gen3）平台的小米设备打造的一键 BL 解锁辅助工具。通过 8sg3or7pg3-unlock.bat 脚本，实现 HyperOS 2026.02.01 之前补丁系统下的自动化解锁流程。
 ---
 
 ### 📱 已适配支持机型
 
-本脚本目前已精准适配以下 **7 款** 骁龙 8 Gen3 平台设备：
+本脚本目前已精准适配以下 **4 款** 骁龙 8 Gen3 平台设备：
 
 * **Xiaomi 系列：**
     * **Xiaomi Pad 7 Pro**
     * **Xiaomi Civi 4 Pro**
 * **Redmi 系列：**
     * **Redmi Turbo 3**
+* **兼容 系列：**
+    * **Xiaomi Pad 7**
 ---
 ## ⚠️ 系统要求与兼容性逻辑 (System Requirements)
 
@@ -54,5 +56,5 @@
 
 ### 💬 反馈与贡献
 
-如果你在上述 7 款机型上遇到“未识别设备”或脚本报错，请提交 **Issue** 并附上报错截图，我会针对该机型文件夹内的逻辑进行修复。
+如果你在上述 4 款机型上遇到“未识别设备”或脚本报错，请提交 **Issue** 并附上报错截图，我会针对该机型文件夹内的逻辑进行修复。
 
